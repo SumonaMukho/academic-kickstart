@@ -76,10 +76,10 @@ Aug 2018 - One [paper](publication/tandon-2018-reasoning-aa) accepted to EMNLP 2
 <!-- Jun  2018 - Presented two posters at NAACL 2018 [1](publication/bosselut-2018-discourse-aware-nr) [2](publication/celikyilmaz-2018-deep-ca/)<br> -->
 <!-- May  2018 - Presented [poster](http://localhost:1313/publication/bosselut-2017-simulating-ad/) at ICLR 2018<br> -->
 May  2018 - [Talk](https://youtu.be/TsKZHpDXIEY?t=1087) at NW-NLP 2018<br>
-Apr  2018 - Two papers accepted to ACL 2018 [1](publication/rashkin-2018-modeling-np/) [2](publication/celikyilmaz-2018-deep-ca/)<br>
+Apr  2018 - Two papers accepted to ACL 2018 [1](publication/rashkin-2018-modeling-np/) [2](publication/holtzman-2018-learning-tw/)<br>
 Mar  2018 - Joined AI2 to work on [common sense!](https://mosaic.allenai.org/)<br>
-Feb  2018 - Two papers accepted to NAACL 2018 [1](publication/bosselut-2018-discourse-aware-nr) [2](publication/holtzman-2018-learning-tw/)<br>
-Jan  2018 - One [paper](http://localhost:1313/publication/bosselut-2017-simulating-ad/) accepted to ICLR 2018 <br>
+Feb  2018 - Two papers accepted to NAACL 2018 [1](publication/bosselut-2018-discourse-aware-nr) [2](publication/celikyilmaz-2018-deep-ca/)<br>
+Jan  2018 - One [paper](publication/bosselut-2017-simulating-ad/) accepted to ICLR 2018 <br>
 Dec  2017 - Won an [AI2 Key Scientific Challenges Award](http://allenai.org/key-scientific-challenges.html) <br>
 <!-- Nov  2017 - Talk at [UW CSE Affiliate's Day](https://www.cs.washington.edu/industrial_affiliates/meetings/2017/meeting/talks)<br>
 Jul  2017 - Attended NLU Workshop @ Google<br>
