@@ -50,8 +50,8 @@ My teammates and I have worked on integrating discriminator methods into generat
 
 <h3> Relevant Publications </h3>
 
-**Antoine Bosselut**, Asli Çelikyilmaz, Xiaodong He, Jianfeng Gao, Po-Sen Huang, Yejin Choi (2018).  Proceedings of the 16th Annual Meeting of the North American Association for Computational Linguistics (NAACL).
+**Antoine Bosselut**, Asli Çelikyilmaz, Xiaodong He, Jianfeng Gao, Po-Sen Huang, Yejin Choi (2018). [Discourse-Aware Neural Rewards for Coherent Text Generation]({{< ref "/publication/bosselut-2018-discourse-aware-nr/index.md" >}}) Proceedings of the 16th Annual Meeting of the North American Association for Computational Linguistics (NAACL).
 
-Saadia Gabriel, **Antoine Bosselut**, Ari Holtzman, Kyle Lo, Asli Çelikyilmaz, Yejin Choi (2019). [Cooperative Generator-Discriminator Networks for Abstractive Summarization with Narrative Flow]({{< ref "/publication/gabriel-2019-cooperative-gn/index.md" >}}). ArXiv.
+Saadia Gabriel, **Antoine Bosselut**, Ari Holtzman, Kyle Lo, Asli Çelikyilmaz, Yejin Choi (2019). [Cooperative Generator-Discriminator Networks for Abstractive Summarization with Narrative Flow]({{< ref "/publication/gabriel-2019-cooperative-gn/index.md" >}}). ArXiv: 1907.01272.
 
 Ari Holtzman, Jan Buys, Maxwell Forbes, **Antoine Bosselut**, David Golub, Yejin Choi (2018). [Learning to Write with Cooperative Discriminators]({{< ref "/publication/holtzman-2018-learning-tw/index.md" >}}). Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL).

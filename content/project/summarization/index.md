@@ -47,8 +47,8 @@ Because documents and summaries are different ways of communicating information,
 <h3> Relevant Publications </h3>
 Asli Çelikyilmaz, **Antoine Bosselut**, Xiaodong He, Yejin Choi (2018). [Deep Communicating Agents for Abstractive Summarization]({{< ref "/publication/celikyilmaz-2018-deep-ca/index.md" >}}). Proceedings of the 16th Annual Meeting of the North American Association for Computational Linguistics (NAACL).
 
-Saadia Gabriel, **Antoine Bosselut**, Ari Holtzman, Kyle Lo, Asli Çelikyilmaz, Yejin Choi (2019). [Cooperative Generator-Discriminator Networks for Abstractive Summarization with Narrative Flow]({{< ref "/publication/gabriel-2019-cooperative-gn/index.md" >}}). ArXiv.
+Saadia Gabriel, **Antoine Bosselut**, Ari Holtzman, Kyle Lo, Asli Çelikyilmaz, Yejin Choi (2019). [Cooperative Generator-Discriminator Networks for Abstractive Summarization with Narrative Flow]({{< ref "/publication/gabriel-2019-cooperative-gn/index.md" >}}). ArXiv: 1907.01272.
 
-Andrew Hoang, **Antoine Bosselut**, Asli Çelikyilmaz, Yejin Choi (2019). [Efficient Adaptation of Pretrained Transformers for Abstractive Summarization]({{< ref "/publication/hoang-2019-efficient-ao/index.md" >}}). arXiv.
+Andrew Hoang, **Antoine Bosselut**, Asli Çelikyilmaz, Yejin Choi (2019). [Efficient Adaptation of Pretrained Transformers for Abstractive Summarization]({{< ref "/publication/hoang-2019-efficient-ao/index.md" >}}). arXiv: 1906.00138.
 
 

@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-Understanding long-form text such as instructions, stories, and dialogues, requires reasoning about implicit causal effects of events depicted in the text. For example, given an instruction such as ``\emph{bake} the muffins for an hour,'' an intelligent agent must be able to anticipate a number of entailed facts (e.g., the muffins are now in the oven; their temperature will increase). While this common sense reasoning is trivial for humans, most natural language understanding algorithms cannot reason about causal effects not mentioned in surface strings of the text being read.
+Understanding long-form text such as instructions, stories, and dialogues, requires reasoning about implicit causal effects of events depicted in the text. For example, given an instruction such as ``*bake* the muffins for an hour,'' an intelligent agent must be able to anticipate a number of entailed facts (e.g., the muffins are now in the oven; their temperature will increase). While this common sense reasoning is trivial for humans, most natural language understanding algorithms cannot reason about causal effects not mentioned in surface strings of the text being read.
 
 We've developed approaches that aim to model aspects of world state changes, particularly those related to how entities change as they interact with the world. This world-centric modeling of procedural language (i.e., understanding by simulation) abstracts away from the
 surface strings, complementing text-centric modeling of language, which focuses on syntactic and
