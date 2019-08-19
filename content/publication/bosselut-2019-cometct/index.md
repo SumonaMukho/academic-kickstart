@@ -9,6 +9,7 @@ featured: true
 publication: "*Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)*"
 url_pdf: "http://arxiv.org/pdf/1906.05317.pdf"
 url_code: "https://github.com/atcbosselut/comet-commonsense"
+url_poster: "poster.pdf"
 url_demo: "https://mosaickg.apps.allenai.org/"
 ---
 

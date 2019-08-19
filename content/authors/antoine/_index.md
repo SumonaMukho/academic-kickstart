@@ -23,9 +23,12 @@ organizations:
 bio: My research centers on using deep learning to discover commonsense knowledge and simulate commonsense reasoning.
 
 interests:
-- Commonsense Knowledge and Reasoning
-- Commonsense Knowledge Graph Construction
-- Long-Form Natural Language Generation
+- Commonsense knowledge and reasoning
+- Neural and symbolic representations of knowledge
+- Automatic knowledge graph construction
+- Counterfactual reasoning
+- Natural language generation with discourse coherence
+- Language grounding with vision and knowledge
 
 education:
   courses:
@@ -72,8 +75,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the University of Washington working in the [Natural  Language Processing Group](https://www.cs.washington.edu/research/nlp) and the [Machine Learning Group](https://www.cs.washington.edu/research/ml). I am  advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin). My research centers on using deep learning to discover commonsense knowledge and simulate commonsense reasoning.
+I am a PhD student at the University of Washington in the [Natural  Language Processing Group](https://www.cs.washington.edu/research/nlp) advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin). My research centers on using deep learning to discover commonsense knowledge and simulate commonsense reasoning. I am also a researcher on the [Mosaic Project](https://mosaic.allenai.org) at the [Allen Institute for Artificial Intelligence](https://allenai.org).
+<!--  and collaborate extensively with [Asli Celikyilmaz](https://www.microsoft.com/en-us/research/people/aslicel/) on the Deep Learning Team at MSR -->
+Check out my <b><a target="_blank" href="files/cv.pdf">CV</a></b> for more details.
 
- I am also a researcher on the <a target="_blank" href=https://mosaic.allenai.org>Mosaic Project</a> at the <a target="_blank" href=https://allenai.org>Allen Institute for Artificial Intelligence</a> and collaborate extensively with <a target="_blank" href=https://www.microsoft.com/en-us/research/people/aslicel/>Asli Celikyilmaz</a> on the Deep Learning Team at MSR. Check out my <b><a target="_blank" href="files/cv.pdf">CV</a></b> for more details.
-
- I'm always happy to discuss projects with prospective researchers and have advised multiple students throughout my time at the University of Washington.
+ <!-- I'm always happy to discuss projects with prospective researchers and have advised multiple students throughout my time at the University of Washington. -->

@@ -8,6 +8,7 @@ abstract: "Recurrent Neural Networks (RNNs) are powerful autoregressive sequence
 featured: false
 publication: "*Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)*"
 url_code: "https://github.com/ari-holtzman/l2w"
+url_poster: "poster.pdf"
 url_pdf: "https://arxiv.org/pdf/1805.06087.pdf"
 url_project: "https://ari-holtzman.github.io/l2w-demo"
 ---
