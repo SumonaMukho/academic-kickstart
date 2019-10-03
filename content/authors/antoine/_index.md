@@ -35,10 +35,10 @@ education:
   - course: PhD in Computer Science
     institution: Paul G. Allen School, University of Washington
     year:
-  - course: M.Sc. in Computer Science
+  - course: MS in Computer Science
     institution: Paul G. Allen School, University of Washington
     year: 2016
-  - course: B.Eng. in Electrical Engineering
+  - course: BEng in Electrical Engineering
     institution: McGill University
     year: 2014
 
