@@ -51,6 +51,8 @@ Large-scale language models provide an opportunity for a new approach, however. 
 
 **Antoine Bosselut**, Hannah Rashkin, Maarten Sap, Chaitanya Malaviya, Asli Çelikyilmaz, Yejin Choi (2019). [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction]({{< ref "/publication/bosselut-2019-cometct/index.md" >}}). Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL).
 
+Chaitanya Malaviya, Chandra Bhagavatula, **Antoine Bosselut**, Yejin Choi (2019). [Exploiting Structural and Semantic Context for Commonsense Knowledge Base Completion]({{< ref "/publication/malaviya-2019-extracting-sa/index.md" >}}). ArXiv: 1910.02915.
+
 <!-- Antoine Bosselut, Jianfu Chen, David Warren, Hannaneh Hajishirzi, Yejin Choi (2016). [Learning Prototypical Event Structure from Photo Albums]({{< ref "/publication/bosselut-2016-learning-pe/index.md" >}}). Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL). -->
 
 <h3> Resources </h3>

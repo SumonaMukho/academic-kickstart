@@ -1,6 +1,6 @@
 ---
 title: "Efficient Adaptation of Pretrained Transformers for Abstractive Summarization"
-date: 2019-01-25
+date: 2019-01-19
 publishDate: 2019-07-18T16:44:39.703474Z
 authors: ["Andrew Hoang", "**Antoine Bosselut**", "Asli Çelikyilmaz", "Yejin Choi"]
 publication_types: ["3"]

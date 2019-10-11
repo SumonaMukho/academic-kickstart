@@ -9,7 +9,7 @@ featured: false
 publication: "*Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL)*"
 url_project: "/project/protoevents/"
 url_pdf: "https://homes.cs.washington.edu/~antoineb/publications/acl2016_protoevents.pdf"
-url_dataset: "https://homes.cs.washington.edu/~antoineb/datasets/vizstory.tar.gz"
+url_dataset: "https://homes.cs.washington.edu/~antoineb/datasets/vizstory.csv.tar.gz"
 url_video: "http://techtalks.tv/talks/learning-prototypical-event-structure-from-photo-albums/63210/"
 ---
 

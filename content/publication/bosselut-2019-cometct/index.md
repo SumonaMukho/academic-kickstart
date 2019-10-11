@@ -10,6 +10,7 @@ publication: "*Proceedings of the 57th Annual Meeting of the Association for Com
 url_pdf: "http://arxiv.org/pdf/1906.05317.pdf"
 url_code: "https://github.com/atcbosselut/comet-commonsense"
 url_poster: "poster.pdf"
+url_video: "https://www.youtube.com/watch?time_continue=2&v=HTE27VVwsNY"
 url_demo: "https://mosaickg.apps.allenai.org/"
 ---
 

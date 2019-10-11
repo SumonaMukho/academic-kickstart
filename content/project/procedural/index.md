@@ -51,9 +51,9 @@ semantic labeling of surface words (i.e., understanding by labeling).
 
 Bhavana Dalvi Mishra, Niket Tandon, **Antoine Bosselut**, Wen-tau Yih, Peter Clark (2019). [Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text]({{< ref "/publication/dalvi-2019-everything-hf/index.md" >}}). Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP).
 
-Niket Tandon, Bhavana Dalvi Mishra, Keisuke Sakaguchi, Peter Clark, **Antoine Bosselut** (2019). [WIQA: A dataset for "What if..." reasoning over procedural text]({{< ref "/publication/tandon-2019-wiqa/index.md" >}}). Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP).
+Niket Tandon, Bhavana Dalvi Mishra, Keisuke Sakaguchi, **Antoine Bosselut**, Peter Clark (2019). [WIQA: A dataset for "What if..." reasoning over procedural text]({{< ref "/publication/tandon-2019-wiqa/index.md" >}}). Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP).
 
-Xinya Du, Bhavana Dalvi Mishra, Niket Tandon, **Antoine Bosselut**, Wen-tau Yih, Peter Clark, Claire Cardie (2019). [Be Consistent! Improving Procedural Text Comprehension using Label Consistency]({{< ref "/publication/du-2019-be-ci/index.md" >}}). Proceedings of the 16th Annual Meeting of the North American Association for Computational Linguistics (NAACL).
+Xinya Du, Bhavana Dalvi Mishra, Niket Tandon, **Antoine Bosselut**, Wen-tau Yih, Peter Clark, Claire Cardie (2019). [Be Consistent! Improving Procedural Text Comprehension using Label Consistency]({{< ref "/publication/du-2019-be-ci/index.md" >}}). Proceedings of the 17th Annual Meeting of the North American Association for Computational Linguistics (NAACL).
 
 Hannah Rashkin, **Antoine Bosselut**, Maarten Sap, Kevin Knight, Yejin Choi (2018). [Modeling Naive Psychology of Characters in Simple Commonsense Stories]({{< ref "/publication/rashkin-2018-modeling-np/index.md" >}}). Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL).
 
