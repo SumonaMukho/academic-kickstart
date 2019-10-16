@@ -65,7 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+Oct  2019 - One new [preprint](publication/malaviya-2019-extracting-sa/) submitted to arXiv<br>
+Sep  2019 - Gave a [talk](https://www.youtube.com/watch?v=HTE27VVwsNY) at [WeCNLP 2019](https://www.wecnlp.ai/wecnlp-2019)<br>
+Aug  2019 - Three papers accepted to EMNLP 2019 [1](publication/qin-2019-counterfactual/) [2](publication/dalvi-2019-everything-hf/) [3](publication/tandon-2019-wiqa/)<br>
 Jun  2019 - Two new preprints submitted to arXiv [1](publication/hoang-2019-efficient-ao/) [2](publication/gabriel-2019-cooperative-gn/)<br>
 Jun  2019 - Organized [NeuralGen 2019](https://neuralgen.io) @ NAACL 2019<br>
 Apr  2019 - One [paper](publication/bosselut-2019-cometct/) accepted to ACL 2019<br>
