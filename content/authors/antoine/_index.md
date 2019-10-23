@@ -79,4 +79,5 @@ I am a PhD student at the University of Washington in the [Natural  Language Pro
 <!--  and collaborate extensively with [Asli Celikyilmaz](https://www.microsoft.com/en-us/research/people/aslicel/) on the Deep Learning Team at MSR -->
 Check out my <b><a target="_blank" href="files/cv.pdf">CV</a></b> for more details.
 
+<b>I am on the academic and industry job markets.</b>
  <!-- I'm always happy to discuss projects with prospective researchers and have advised multiple students throughout my time at the University of Washington. -->

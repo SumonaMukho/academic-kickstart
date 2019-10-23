@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Research Consultant"
+  title = "Student Researcher"
   company = "Microsoft Research"
   company_url = ""
   location = "Washington"
@@ -45,8 +45,8 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Research Intern"
-  company = "Allen Institute for Artificial Intelligence"
+  title = "Student Researcher"
+  company = "Allen Institute for Artificial Intelligence (AI2)"
   company_url = ""
   location = "Washington"
   date_start = "2018-03-31"
