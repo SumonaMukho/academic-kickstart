@@ -49,9 +49,11 @@ Large-scale language models provide an opportunity for a new approach, however. 
 
 <h3> Associated Publications </h3>
 
+**Antoine Bosselut**, Yejin Choi (2019). [Dynamic Knowledge Graph Construction for Zero-shot Commonsense Question Answering]({{< ref "/publication/bosselut-2019-dynamic-kg/index.md" >}}). ArXiv: 1911. ...
+
 **Antoine Bosselut**, Hannah Rashkin, Maarten Sap, Chaitanya Malaviya, Asli Çelikyilmaz, Yejin Choi (2019). [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction]({{< ref "/publication/bosselut-2019-cometct/index.md" >}}). Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL).
 
-Chaitanya Malaviya, Chandra Bhagavatula, **Antoine Bosselut**, Yejin Choi (2019). [Exploiting Structural and Semantic Context for Commonsense Knowledge Base Completion]({{< ref "/publication/malaviya-2019-extracting-sa/index.md" >}}). ArXiv: 1910.02915.
+Chaitanya Malaviya, Chandra Bhagavatula, **Antoine Bosselut**, Yejin Choi (2020). [Exploiting Structural and Semantic Context for Commonsense Knowledge Base Completion]({{< ref "/publication/malaviya-2019-extracting-sa/index.md" >}}). Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI).
 
 <!-- Antoine Bosselut, Jianfu Chen, David Warren, Hannaneh Hajishirzi, Yejin Choi (2016). [Learning Prototypical Event Structure from Photo Albums]({{< ref "/publication/bosselut-2016-learning-pe/index.md" >}}). Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL). -->
 

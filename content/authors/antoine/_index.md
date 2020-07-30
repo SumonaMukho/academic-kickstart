@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student / Researcher
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Paul G. Allen School, University of Washington
+- name: Stanford University
   url: "https://www.cs.washington.edu/"
-- name: Project Mosaic, Allen Institute for Artificial Intelligence
-  url: "https://mosaic.allenai.org/"
+# - name: Project Mosaic, Allen Institute for Artificial Intelligence
+#   url: "https://mosaic.allenai.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research centers on using deep learning to discover commonsense knowledge and simulate commonsense reasoning.
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Paul G. Allen School, University of Washington
-    year:
+    year: 2020
   - course: MS in Computer Science
     institution: Paul G. Allen School, University of Washington
     year: 2016
@@ -75,9 +75,11 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the University of Washington in the [Natural  Language Processing Group](https://www.cs.washington.edu/research/nlp) advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin). My research centers on using deep learning to discover commonsense knowledge and simulate commonsense reasoning. I am also a researcher on the [Mosaic Project](https://mosaic.allenai.org) at the [Allen Institute for Artificial Intelligence](https://allenai.org).
-<!--  and collaborate extensively with [Asli Celikyilmaz](https://www.microsoft.com/en-us/research/people/aslicel/) on the Deep Learning Team at MSR -->
-Check out my <b><a target="_blank" href="files/cv.pdf">CV</a></b> for more details.
+I am a postdoctoral scholar at Stanford University working with [Jure Leskovec](https://cs.stanford.edu/people/jure/) and [Chris Manning](https://nlp.stanford.edu/manning/). I completed my PhD at the University of Washington in the [Natural  Language Processing Group](https://www.cs.washington.edu/research/nlp) advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin).
 
-<b>I am on the academic and industry job markets.</b>
+My research centers on using deep learning to discover commonsense knowledge and simulate commonsense reasoning. I am also a researcher on the [Mosaic Project](https://mosaic.allenai.org) at the [Allen Institute for Artificial Intelligence](https://allenai.org).
+<!--  and collaborate extensively with [Asli Celikyilmaz](https://www.microsoft.com/en-us/research/people/aslicel/) on the Deep Learning Team at MSR -->
+<!-- Check out my <b><a target="_blank" href="files/cv.pdf">CV</a></b> for more details. -->
+
+<!-- <b>I am on the academic and industry job markets.</b> -->
  <!-- I'm always happy to discuss projects with prospective researchers and have advised multiple students throughout my time at the University of Washington. -->
